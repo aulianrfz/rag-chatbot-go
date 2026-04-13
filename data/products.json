@@ -1,0 +1,74 @@
+[
+  {
+    "id": "P001",
+    "nama": "Laptop ASUS VivoBook 14",
+    "kategori": "Elektronik",
+    "harga": 7500000,
+    "stok": 15,
+    "deskripsi": "Laptop ringan dengan prosesor Intel Core i5 generasi ke-12, RAM 8GB, SSD 512GB. Cocok untuk pelajar dan pekerja kantoran.",
+    "tags": ["laptop", "komputer", "elektronik", "asus", "pelajar"]
+  },
+  {
+    "id": "P002",
+    "nama": "Mouse Wireless Logitech M185",
+    "kategori": "Aksesori Komputer",
+    "harga": 175000,
+    "stok": 50,
+    "deskripsi": "Mouse nirkabel dengan koneksi USB nano receiver. Baterai tahan hingga 12 bulan. Ergonomis untuk penggunaan sehari-hari.",
+    "tags": ["mouse", "wireless", "logitech", "aksesori", "komputer"]
+  },
+  {
+    "id": "P003",
+    "nama": "Keyboard Mechanical Keychron K2",
+    "kategori": "Aksesori Komputer",
+    "harga": 1200000,
+    "stok": 20,
+    "deskripsi": "Keyboard mechanical tenkeyless dengan switch Gateron Brown. Kompatibel Windows dan Mac. Dilengkapi backlight RGB.",
+    "tags": ["keyboard", "mechanical", "keychron", "rgb", "aksesori"]
+  },
+  {
+    "id": "P004",
+    "nama": "Monitor LG 24 inch IPS",
+    "kategori": "Elektronik",
+    "harga": 2800000,
+    "stok": 8,
+    "deskripsi": "Monitor IPS Full HD 1080p dengan refresh rate 75Hz. Panel IPS memberikan warna akurat dan sudut pandang lebar 178 derajat.",
+    "tags": ["monitor", "lg", "ips", "fullhd", "elektronik"]
+  },
+  {
+    "id": "P005",
+    "nama": "Tas Ransel Laptop Thule 15 inch",
+    "kategori": "Tas & Koper",
+    "harga": 850000,
+    "stok": 30,
+    "deskripsi": "Tas ransel anti air dengan kompartemen laptop 15 inch. Terbuat dari bahan polyester berkualitas tinggi. Kapasitas 21 liter.",
+    "tags": ["tas", "ransel", "laptop", "thule", "anti air"]
+  },
+  {
+    "id": "P006",
+    "nama": "Headset Gaming HyperX Cloud II",
+    "kategori": "Audio",
+    "harga": 1350000,
+    "stok": 12,
+    "deskripsi": "Headset gaming dengan suara surround virtual 7.1. Driver 53mm dengan padding memory foam. Kompatibel PC, PS4, Xbox.",
+    "tags": ["headset", "gaming", "hyperx", "audio", "surround"]
+  },
+  {
+    "id": "P007",
+    "nama": "Webcam Logitech C920 HD Pro",
+    "kategori": "Elektronik",
+    "harga": 1100000,
+    "stok": 25,
+    "deskripsi": "Webcam Full HD 1080p/30fps dengan autofocus dan koreksi cahaya otomatis. Ideal untuk video call, streaming, dan work from home.",
+    "tags": ["webcam", "logitech", "1080p", "streaming", "wfh"]
+  },
+  {
+    "id": "P008",
+    "nama": "USB Hub 7 Port Anker",
+    "kategori": "Aksesori Komputer",
+    "harga": 320000,
+    "stok": 40,
+    "deskripsi": "USB hub 7 port USB 3.0 dengan kecepatan transfer hingga 5Gbps. Dilengkapi adaptor daya untuk perangkat yang membutuhkan daya lebih.",
+    "tags": ["usb hub", "anker", "usb 3.0", "aksesori", "port"]
+  }
+]

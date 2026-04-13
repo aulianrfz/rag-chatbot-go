@@ -1,0 +1,137 @@
+[
+  {
+    "transaksi_id": "TRX001",
+    "tanggal": "2024-11-15",
+    "produk_id": "P001",
+    "produk_nama": "Laptop ASUS VivoBook 14",
+    "kategori": "Elektronik",
+    "jumlah": 1,
+    "total": 7500000
+  },
+  {
+    "transaksi_id": "TRX002",
+    "tanggal": "2024-11-15",
+    "produk_id": "P002",
+    "produk_nama": "Mouse Wireless Logitech M185",
+    "kategori": "Aksesori Komputer",
+    "jumlah": 2,
+    "total": 350000
+  },
+  {
+    "transaksi_id": "TRX003",
+    "tanggal": "2024-11-20",
+    "produk_id": "P003",
+    "produk_nama": "Keyboard Mechanical Keychron K2",
+    "kategori": "Aksesori Komputer",
+    "jumlah": 1,
+    "total": 1200000
+  },
+  {
+    "transaksi_id": "TRX004",
+    "tanggal": "2024-11-22",
+    "produk_id": "P002",
+    "produk_nama": "Mouse Wireless Logitech M185",
+    "kategori": "Aksesori Komputer",
+    "jumlah": 3,
+    "total": 525000
+  },
+  {
+    "transaksi_id": "TRX005",
+    "tanggal": "2024-12-01",
+    "produk_id": "P006",
+    "produk_nama": "Headset Gaming HyperX Cloud II",
+    "kategori": "Audio",
+    "jumlah": 1,
+    "total": 1350000
+  },
+  {
+    "transaksi_id": "TRX006",
+    "tanggal": "2024-12-05",
+    "produk_id": "P001",
+    "produk_nama": "Laptop ASUS VivoBook 14",
+    "kategori": "Elektronik",
+    "jumlah": 2,
+    "total": 15000000
+  },
+  {
+    "transaksi_id": "TRX007",
+    "tanggal": "2024-12-10",
+    "produk_id": "P005",
+    "produk_nama": "Tas Ransel Laptop Thule 15 inch",
+    "kategori": "Tas & Koper",
+    "jumlah": 1,
+    "total": 850000
+  },
+  {
+    "transaksi_id": "TRX008",
+    "tanggal": "2024-12-12",
+    "produk_id": "P007",
+    "produk_nama": "Webcam Logitech C920 HD Pro",
+    "kategori": "Elektronik",
+    "jumlah": 2,
+    "total": 2200000
+  },
+  {
+    "transaksi_id": "TRX009",
+    "tanggal": "2024-12-15",
+    "produk_id": "P002",
+    "produk_nama": "Mouse Wireless Logitech M185",
+    "kategori": "Aksesori Komputer",
+    "jumlah": 5,
+    "total": 875000
+  },
+  {
+    "transaksi_id": "TRX010",
+    "tanggal": "2024-12-18",
+    "produk_id": "P004",
+    "produk_nama": "Monitor LG 24 inch IPS",
+    "kategori": "Elektronik",
+    "jumlah": 1,
+    "total": 2800000
+  },
+  {
+    "transaksi_id": "TRX011",
+    "tanggal": "2024-12-20",
+    "produk_id": "P008",
+    "produk_nama": "USB Hub 7 Port Anker",
+    "kategori": "Aksesori Komputer",
+    "jumlah": 3,
+    "total": 960000
+  },
+  {
+    "transaksi_id": "TRX012",
+    "tanggal": "2024-12-22",
+    "produk_id": "P003",
+    "produk_nama": "Keyboard Mechanical Keychron K2",
+    "kategori": "Aksesori Komputer",
+    "jumlah": 2,
+    "total": 2400000
+  },
+  {
+    "transaksi_id": "TRX013",
+    "tanggal": "2025-01-03",
+    "produk_id": "P001",
+    "produk_nama": "Laptop ASUS VivoBook 14",
+    "kategori": "Elektronik",
+    "jumlah": 1,
+    "total": 7500000
+  },
+  {
+    "transaksi_id": "TRX014",
+    "tanggal": "2025-01-05",
+    "produk_id": "P002",
+    "produk_nama": "Mouse Wireless Logitech M185",
+    "kategori": "Aksesori Komputer",
+    "jumlah": 4,
+    "total": 700000
+  },
+  {
+    "transaksi_id": "TRX015",
+    "tanggal": "2025-01-10",
+    "produk_id": "P006",
+    "produk_nama": "Headset Gaming HyperX Cloud II",
+    "kategori": "Audio",
+    "jumlah": 2,
+    "total": 2700000
+  }
+]

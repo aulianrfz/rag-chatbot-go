@@ -2,6 +2,8 @@
 
 Backend REST API untuk chatbot asisten belanja TokoKu, dibangun menggunakan Go dengan pendekatan RAG (Retrieval-Augmented Generation). Sistem ini mendukung beberapa LLM provider seperti Ollama dan Google Gemini, serta penyimpanan riwayat chat menggunakan MySQL.
 
+> 🚧 Project ini masih dalam tahap pengembangan dan akan terus disempurnakan, khususnya pada kualitas respons LLM, strategi retrieval, serta arsitektur sistem secara keseluruhan.
+
 ---
 
 ## ✨ Features
@@ -122,6 +124,15 @@ CREATE TABLE IF NOT EXISTS chat_history (
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );
 ```
+
+---
+
+## 📚 Notes
+
+Project ini dibuat sebagai media pembelajaran dan eksplorasi implementasi AI backend menggunakan Go, khususnya dalam topik:
+- Integrasi Large Language Model (LLM)
+- Implementasi Retrieval-Augmented Generation (RAG)
+- Arsitektur backend modular
 
 ---
 
